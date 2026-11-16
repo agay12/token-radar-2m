@@ -1,0 +1,4 @@
+out/
+*.png
+!screenshots/*.png
+.DS_Store
